@@ -1,0 +1,105 @@
+[0.016s] Invoking command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kaymarrr/fra501_ws/src/turtlesim_plus/turtlesim_plus -DCMAKE_INSTALL_PREFIX=/home/kaymarrr/fra501_ws/install/turtlesim_plus
+[0.142s] -- The C compiler identification is GNU 11.4.0
+[0.227s] -- The CXX compiler identification is GNU 11.4.0
+[0.234s] -- Detecting C compiler ABI info
+[0.297s] -- Detecting C compiler ABI info - done
+[0.303s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.304s] -- Detecting C compile features
+[0.305s] -- Detecting C compile features - done
+[0.307s] -- Detecting CXX compiler ABI info
+[0.375s] -- Detecting CXX compiler ABI info - done
+[0.387s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.388s] -- Detecting CXX compile features
+[0.388s] -- Detecting CXX compile features - done
+[0.390s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.543s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.614s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[0.647s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.651s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.658s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.669s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.693s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.765s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.767s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.850s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.880s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.922s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.929s] -- Looking for pthread.h
+[0.985s] -- Looking for pthread.h - found
+[0.985s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.044s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.045s] -- Found Threads: TRUE  
+[1.185s] -- Found rclpy: 3.3.9 (/opt/ros/humble/share/rclpy/cmake)
+[1.314s] -- Configuring done
+[1.318s] -- Generating done
+[1.319s] -- Build files have been written to: /home/kaymarrr/fra501_ws/build/turtlesim_plus
+[1.328s] Invoked command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kaymarrr/fra501_ws/src/turtlesim_plus/turtlesim_plus -DCMAKE_INSTALL_PREFIX=/home/kaymarrr/fra501_ws/install/turtlesim_plus
+[1.330s] Invoking command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/turtlesim_plus -- -j16 -l16
+[1.380s] Built target ament_cmake_python_copy_turtlesim_plus
+[1.598s] running egg_info
+[1.598s] creating turtlesim_plus.egg-info
+[1.598s] writing turtlesim_plus.egg-info/PKG-INFO
+[1.598s] writing dependency_links to turtlesim_plus.egg-info/dependency_links.txt
+[1.599s] writing top-level names to turtlesim_plus.egg-info/top_level.txt
+[1.599s] writing manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[1.600s] reading manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[1.601s] writing manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[1.626s] Built target ament_cmake_python_build_turtlesim_plus_egg
+[1.638s] Invoked command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/turtlesim_plus -- -j16 -l16
+[1.669s] Invoking command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/turtlesim_plus
+[1.676s] -- Install configuration: ""
+[1.676s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/environment/pythonpath.sh
+[1.676s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/environment/pythonpath.dsv
+[1.676s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info
+[1.676s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/top_level.txt
+[1.676s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/PKG-INFO
+[1.676s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/dependency_links.txt
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/SOURCES.txt
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/ros2_plugins.py
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/__init__.py
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object
+[1.677s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object/parcel.png
+[1.678s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object/pizza.png
+[1.678s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle
+[1.678s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/bouncy.png
+[1.678s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/rolling.png
+[1.678s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/galactic.png
+[1.678s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/foxy.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/humble.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/eloquent.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/dashing.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/otto.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/ardent.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/crystal.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map/map.png
+[1.679s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/entity.py
+[1.718s] Listing '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus'...
+[1.718s] Compiling '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/__init__.py'...
+[1.718s] Compiling '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/entity.py'...
+[1.719s] Listing '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image'...
+[1.719s] Listing '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map'...
+[1.719s] Listing '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object'...
+[1.719s] Listing '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle'...
+[1.719s] Compiling '/home/kaymarrr/fra501_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/ros2_plugins.py'...
+[1.723s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/lib/turtlesim_plus/turtlesim_plus_node.py
+[1.723s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/lib/turtlesim_plus/pizza_on_click.py
+[1.723s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus
+[1.723s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/ament_index/resource_index/package_run_dependencies/turtlesim_plus
+[1.723s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/ament_index/resource_index/parent_prefix_path/turtlesim_plus
+[1.723s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/environment/ament_prefix_path.sh
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/environment/ament_prefix_path.dsv
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/environment/path.sh
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/environment/path.dsv
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.bash
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.sh
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.zsh
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.dsv
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/package.dsv
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/ament_index/resource_index/packages/turtlesim_plus
+[1.724s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/cmake/turtlesim_plusConfig.cmake
+[1.725s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/cmake/turtlesim_plusConfig-version.cmake
+[1.725s] -- Installing: /home/kaymarrr/fra501_ws/install/turtlesim_plus/share/turtlesim_plus/package.xml
+[1.727s] Invoked command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/turtlesim_plus

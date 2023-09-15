@@ -1,0 +1,4 @@
+/home/kaymarrr/fra501_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:msg/ScannerData.idl
+/home/kaymarrr/fra501_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:msg/ScannerDataArray.idl
+/home/kaymarrr/fra501_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:srv/GivePosition.idl
+/home/kaymarrr/fra501_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:action/GetData.idl

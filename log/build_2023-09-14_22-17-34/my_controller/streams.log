@@ -1,0 +1,45 @@
+[0.025s] Invoking command in '/home/kaymarrr/fra501_ws/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/my_controller -- -j16 -l16
+[0.055s] [35m[1mConsolidate compiler generated dependencies of target cpp_node_test[0m
+[0.066s] [100%] Built target cpp_node_test
+[0.076s] [100%] Built target ament_cmake_python_copy_my_controller
+[0.383s] running egg_info
+[0.384s] writing my_controller.egg-info/PKG-INFO
+[0.384s] writing dependency_links to my_controller.egg-info/dependency_links.txt
+[0.384s] writing top-level names to my_controller.egg-info/top_level.txt
+[0.387s] reading manifest file 'my_controller.egg-info/SOURCES.txt'
+[0.387s] writing manifest file 'my_controller.egg-info/SOURCES.txt'
+[0.411s] [100%] Built target ament_cmake_python_build_my_controller_egg
+[0.420s] Invoked command in '/home/kaymarrr/fra501_ws/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/my_controller -- -j16 -l16
+[0.446s] Invoking command in '/home/kaymarrr/fra501_ws/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/my_controller
+[0.454s] -- Install configuration: ""
+[0.454s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/environment/pythonpath.sh
+[0.454s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/environment/pythonpath.dsv
+[0.454s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller-0.0.0-py3.10.egg-info
+[0.454s] -- Installing: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller-0.0.0-py3.10.egg-info/top_level.txt
+[0.455s] -- Installing: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[0.455s] -- Installing: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.455s] -- Installing: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.455s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller
+[0.455s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller/__init__.py
+[0.455s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller/dummy_module.py
+[0.482s] Listing '/home/kaymarrr/fra501_ws/install/my_controller/local/lib/python3.10/dist-packages/my_controller'...
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/lib/my_controller/dummy_script.py
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/lib/my_controller/my_controller.py
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/lib/my_controller/cpp_node_test
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/ament_index/resource_index/package_run_dependencies/my_controller
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/ament_index/resource_index/parent_prefix_path/my_controller
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/environment/ament_prefix_path.sh
+[0.487s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/environment/ament_prefix_path.dsv
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/environment/path.sh
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/environment/path.dsv
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/local_setup.bash
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/local_setup.sh
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/local_setup.zsh
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/local_setup.dsv
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/package.dsv
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/ament_index/resource_index/packages/my_controller
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/cmake/my_controllerConfig.cmake
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/cmake/my_controllerConfig-version.cmake
+[0.488s] -- Up-to-date: /home/kaymarrr/fra501_ws/install/my_controller/share/my_controller/package.xml
+[0.502s] Invoked command in '/home/kaymarrr/fra501_ws/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/my_controller

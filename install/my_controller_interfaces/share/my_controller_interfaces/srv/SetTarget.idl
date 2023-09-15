@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_controller_interfaces/srv/SetTarget.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module my_controller_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request Massage")
+    struct SetTarget_Request {
+      geometry_msgs::msg::Point target;
+    };
+    @verbatim (language="comment", text=
+      "Respose")
+    struct SetTarget_Response {
+      boolean result;
+    };
+  };
+};

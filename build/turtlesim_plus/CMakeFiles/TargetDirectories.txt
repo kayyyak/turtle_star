@@ -1,0 +1,11 @@
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/uninstall.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/turtlesim_plus_uninstall.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/ament_cmake_python_copy_turtlesim_plus.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/ament_cmake_python_build_turtlesim_plus_egg.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/test.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/edit_cache.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/rebuild_cache.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/list_install_components.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/install.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/install/local.dir
+/home/kaymarrr/fra501_ws/build/turtlesim_plus/CMakeFiles/install/strip.dir

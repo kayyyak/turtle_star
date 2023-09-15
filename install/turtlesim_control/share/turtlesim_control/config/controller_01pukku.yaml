@@ -1,0 +1,6 @@
+pukku:
+  controller:
+    ros__parameters:
+      angular_gain: 10.0
+      linear_gain: 1.0
+      tolerance: 0.2

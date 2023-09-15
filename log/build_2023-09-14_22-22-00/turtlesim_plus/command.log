@@ -1,0 +1,4 @@
+Invoking command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/turtlesim_plus -- -j16 -l16
+Invoked command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/turtlesim_plus -- -j16 -l16
+Invoking command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/turtlesim_plus
+Invoked command in '/home/kaymarrr/fra501_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/turtlesim_plus

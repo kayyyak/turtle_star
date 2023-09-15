@@ -1,0 +1,6 @@
+Invoking command in '/home/kaymarrr/fra501_ws/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kaymarrr/fra501_ws/src/my_controller -DCMAKE_INSTALL_PREFIX=/home/kaymarrr/fra501_ws/install/my_controller
+Invoked command in '/home/kaymarrr/fra501_ws/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kaymarrr/fra501_ws/src/my_controller -DCMAKE_INSTALL_PREFIX=/home/kaymarrr/fra501_ws/install/my_controller
+Invoking command in '/home/kaymarrr/fra501_ws/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/my_controller -- -j16 -l16
+Invoked command in '/home/kaymarrr/fra501_ws/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kaymarrr/fra501_ws/build/my_controller -- -j16 -l16
+Invoking command in '/home/kaymarrr/fra501_ws/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/my_controller
+Invoked command in '/home/kaymarrr/fra501_ws/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kaymarrr/fra501_ws/build/my_controller
